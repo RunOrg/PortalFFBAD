@@ -17,7 +17,13 @@ body.splash {
 
 #logo {
   float: left;
-  height: 110px;
+  height: 120px;
   width: 300px;
   background: url("") left center no-repeat transparent; 
+}
+
+.center {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
