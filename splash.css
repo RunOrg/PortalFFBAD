@@ -15,6 +15,20 @@ body.splash {
   overflow: hidden;
 }
 
+#head .menu {
+  float: right;
+  margin: 40px 20px;
+  padding: 0 20px;
+  line-height: 40px;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+#head .menu:hover {
+  background-color: #e2001a;
+}
+
 #logo {
   float: left;
   height: 120px;
@@ -34,3 +48,4 @@ body.splash {
   background-color: rgba(0,0,0,0.25);
   position: absolute;
 }
+
